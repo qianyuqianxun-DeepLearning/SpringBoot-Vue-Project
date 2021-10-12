@@ -1,0 +1,2 @@
+# SpringBoot-Vue-Project
+整合SpringBoot以及前端vue框架以及rabbitmq消息中间件的管理系统
